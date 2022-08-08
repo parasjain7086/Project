@@ -21,3 +21,4 @@ To run the app, simply run
 - Compatible with Expo
 - Highly modularized codebase
 "# Project-1" 
+"# Project-1" 
